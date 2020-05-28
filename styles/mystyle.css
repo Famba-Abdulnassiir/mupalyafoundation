@@ -1,0 +1,16 @@
+.btn-volunteer, .donate{
+text-align: center;
+margin-right: 0.3rem;
+border-style: none;
+text-align: center;
+cursor: pointer;
+box-shadow: 1px 3px 4px 2px rgba(0,0,0,0.90);
+
+}
+#carouselId{
+    margin-top: 2px;
+}
+body{
+    /* background-color: #e7eaed; */
+    background-color: whitesmoke;
+}
